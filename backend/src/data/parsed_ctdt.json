@@ -1,0 +1,7242 @@
+{
+  "monHocList": [
+    {
+      "MaMon": "EDU134",
+      "TenMon": "Giới thiệu ngành - SP TA",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS113",
+      "TenMon": "Ngữ pháp cơ bản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS501",
+      "TenMon": "Ngữ âm thực hành cơ bản",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK106",
+      "TenMon": "Nghe & Nói A2",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK107",
+      "TenMon": "Đọc & Viết A2",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "FSL101",
+      "TenMon": "Tiếng Pháp 1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CHI101",
+      "TenMon": "Tiếng Trung 1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAW101",
+      "TenMon": "Pháp luật đại cương",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PHI104",
+      "TenMon": "Triết học Mác - Lênin",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS115",
+      "TenMon": "Ngữ pháp nâng cao",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS502",
+      "TenMon": "Ngữ âm thực hành nâng cao",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK108",
+      "TenMon": "Nghe & Nói B1",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK109",
+      "TenMon": "Đọc & Viết B1",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK552",
+      "TenMon": "Kỹ năng giao tiếp",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ENG112",
+      "TenMon": "Kỹ năng thuyết trình và làm việc nhóm",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "COS101",
+      "TenMon": "Tin học đại cương",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PHT15X",
+      "TenMon": "Giáo dục thể chất 1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 90,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "FSL102",
+      "TenMon": "Tiếng Pháp 2",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CHI102",
+      "TenMon": "Tiếng Trung 2",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAX309",
+      "TenMon": "Kinh tế chính trị Mác - Lênin",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK311",
+      "TenMon": "Nghe & Nói B2.1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK312",
+      "TenMon": "Đọc & Viết B2.1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED117",
+      "TenMon": "Giáo dục học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PSY106",
+      "TenMon": "Tâm lý học sư phạm đào tạo GV THCS và THPT",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "VIE101",
+      "TenMon": "Tiếng Việt thực hành",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "BAS101",
+      "TenMon": "Cơ sở văn hóa Việt Nam",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PHT25X",
+      "TenMon": "Giáo dục thể chất 2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 90,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MIS21X",
+      "TenMon": "Giáo dục quốc phòng và an ninh",
+      "SoTinChi": 8,
+      "SoTietLyThuyet": 120,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAX310",
+      "TenMon": "Chủ nghĩa xã hội khoa học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU103",
+      "TenMon": "Quản lý hành chính Nhà nước và Quản lý ngành GD và ĐT",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED583",
+      "TenMon": "Nhập môn Phương pháp giảng dạy tiếng Anh",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK313",
+      "TenMon": "Nghe & Nói B2.2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK314",
+      "TenMon": "Đọc & Viết B2.2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "SOC502",
+      "TenMon": "Anh Quốc học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "SOC503",
+      "TenMon": "Hoa Kỳ học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED317",
+      "TenMon": "Thực hành nghề nghiệp 1",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "VRP505",
+      "TenMon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED505",
+      "TenMon": "Phương pháp giảng dạy Phát âm, Từ vựng và Ngữ pháp tiếng Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LIT502",
+      "TenMon": "Văn học Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LIT504",
+      "TenMon": "Văn học Mỹ",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK548",
+      "TenMon": "Nghe & Nói C1.1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK549",
+      "TenMon": "Đọc & Viết C1.1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS525",
+      "TenMon": "Ngữ âm học & Âm vị học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU519",
+      "TenMon": "Thực tập sư phạm 1 - SP TA",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "HCM101",
+      "TenMon": "Tư tưởng Hồ Chí Minh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED506",
+      "TenMon": "Phương pháp giảng dạy kỹ năng Nghe và Đọc tiếng Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MOR507",
+      "TenMon": "Phương pháp nghiên cứu khoa học - TA",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK550",
+      "TenMon": "Nghe & Nói C1.2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK551",
+      "TenMon": "Đọc & Viết C1.2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS533",
+      "TenMon": "Cú pháp & Hình thái học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "COA515",
+      "TenMon": "Ứng dụng CNTT trong giảng dạy tiếng Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS537",
+      "TenMon": "Biên dịch 1",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS538",
+      "TenMon": "Phiên dịch 1",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED507",
+      "TenMon": "Phương pháp giảng dạy kỹ năng Nói và Viết tiếng Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ENG523",
+      "TenMon": "Kiểm tra đánh giá trong dạy học tiếng Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS534",
+      "TenMon": "Ngữ nghĩa học & Ngữ dụng học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED318",
+      "TenMon": "Thực hành nghề nghiệp 2",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LAS531",
+      "TenMon": "Tiếp thu ngôn ngữ thứ hai",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PSY505",
+      "TenMon": "Tâm lý học trong giảng dạy ngoại ngữ",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED623",
+      "TenMon": "Phát triển nghề nghiệp",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED624",
+      "TenMon": "Phát triển tài liệu giảng dạy",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED920",
+      "TenMon": "Nghiên cứu cải tiến ứng dụng",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED921",
+      "TenMon": "Nghiên cứu trường hợp điển hình trong giáo dục",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU819",
+      "TenMon": "Thực tập sư phạm 2 - SP TA",
+      "SoTinChi": 5,
+      "SoTietLyThuyet": 75,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU952",
+      "TenMon": "Khóa luận tốt nghiệp - SP TA",
+      "SoTinChi": 10,
+      "SoTietLyThuyet": 150,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ENG919",
+      "TenMon": "Phương pháp giảng dạy tiếng Anh mẫu giáo - mầm non",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED923",
+      "TenMon": "Phương pháp giảng dạy tiếng Anh tiểu học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED927",
+      "TenMon": "Phương pháp giảng dạy tiếng Anh nâng cao",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ENG921",
+      "TenMon": "Viết báo cáo khoa học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ENG910",
+      "TenMon": "Tiếng Anh toàn cầu",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK526",
+      "TenMon": "Giao thoa văn hóa",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ENG922",
+      "TenMon": "Thiết kế chương trình giảng dạy tiếng Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ENG920",
+      "TenMon": "Quản lý hoạt động giảng dạy tiếng Anh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GSK310",
+      "TenMon": "Kỹ năng học tập qua các hoạt động phục vụ cộng đồng",
+      "SoTinChi": 0,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "FIS508",
+      "TenMon": "Thủy sản đại cương",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "AGR112",
+      "TenMon": "Sinh học đại cương 1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "BIT303",
+      "TenMon": "Vi sinh vật học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS106",
+      "TenMon": "Đa dạng sinh thái thủy sinh vật",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS103",
+      "TenMon": "Kỹ năng mềm và ứng dụng trong giao tiếp",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FST109",
+      "TenMon": "Hóa phân tích ứng dụng - thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "ENG110",
+      "TenMon": "Tiếng Anh 1 (*)",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "CUL107",
+      "TenMon": "Sử dụng tiết kiệm năng lượng và hiệu quả",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "ENV108",
+      "TenMon": "Con người và môi trường nông thôn",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS104",
+      "TenMon": "Sinh hóa thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS107",
+      "TenMon": "Động thực vật thủy sinh",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS108",
+      "TenMon": "Hình thái và phân loại động vật thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "PHT152",
+      "TenMon": "Bơi lội (*)",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 90,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "ENG111",
+      "TenMon": "Tiếng Anh 2 (*)",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS322",
+      "TenMon": "Mô và phôi học động vật thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS323",
+      "TenMon": "Kỹ thuật nuôi thức ăn tự nhiên",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "APH502",
+      "TenMon": "Sinh lý động vật thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS504",
+      "TenMon": "Quản lý chất lượng nước trong nuôi trồng thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS524",
+      "TenMon": "Thực tế giáo trình cơ sở",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "ENG302",
+      "TenMon": "Tiếng Anh 3 (*)",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS503",
+      "TenMon": "Dinh dưỡng và thức ăn thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS318",
+      "TenMon": "Bệnh học thủy sản",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS561",
+      "TenMon": "Kỹ thuật sản xuất giống và nuôi cá nước ngọt",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS567",
+      "TenMon": "Kỹ thuật sản xuất giống và nuôi động vật thân mềm",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "AGR305",
+      "TenMon": "Đổi mới sáng tạo và khởi nghiệp",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS574",
+      "TenMon": "Thực tập giáo trình chuyên ngành thủy sản nước ngọt",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 90,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS517",
+      "TenMon": "Kỹ thuật nuôi cá cảnh và thủy đặc sản",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS569",
+      "TenMon": "Khuyến ngư",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS525",
+      "TenMon": "Phương pháp nghiên cứu sinh học cá",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "LAW507",
+      "TenMon": "Luật thủy sản",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS536",
+      "TenMon": "Kỹ thuật sản xuất giống và nuôi giáp xác",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "MOR510",
+      "TenMon": "Phương pháp nghiên cứu khoa học - NTTS",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS573",
+      "TenMon": "Thực tế giáo trình chuyên ngành thủy sản",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS575",
+      "TenMon": "Thực tập giáo trình chuyên ngành thủy sản nước lợ",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 90,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS568",
+      "TenMon": "Kỹ thuật sản xuất giống và nuôi cá biển",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS565",
+      "TenMon": "Kinh tế và marketing thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS570",
+      "TenMon": "Ứng dụng CNSH trong NTTS",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS571",
+      "TenMon": "Tiêu chuẩn chất lượng thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS572",
+      "TenMon": "Kỹ thuật trồng rong biển",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS563",
+      "TenMon": "Di truyền và chọn giống thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS566",
+      "TenMon": "Công trình và thiết bị thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS549",
+      "TenMon": "Công nghệ sau thu hoạch sản phẩm thủy sản",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS564",
+      "TenMon": "Chuyên đề kỹ thuật sản xuất giống và nuôi thủy sản",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS550",
+      "TenMon": "Chuyên đề chẩn đoán bệnh học thủy sản",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS547",
+      "TenMon": "Thực tập rèn nghề - NTTS",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 120,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS560",
+      "TenMon": "Vi sinh vật hữu ích và ứng dụng trong NTTS",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS562",
+      "TenMon": "Quy hoạch và quản lý nguồn lợi thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS559",
+      "TenMon": "Sử dụng thuốc và hóa chất trong nuôi trồng thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "ESP553",
+      "TenMon": "Tiếng Anh chuyên ngành Nuôi trồng thủy sản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS905",
+      "TenMon": "Khóa luận tốt nghiệp - NTTS",
+      "SoTinChi": 10,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 300,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS910",
+      "TenMon": "Tổng hợp kiến thức cơ sở ngành",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS919",
+      "TenMon": "Tổng hợp kiến thức chuyên ngành",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "FIS914",
+      "TenMon": "Chuyên đề tốt nghiệp - NTTS",
+      "SoTinChi": 0,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "NN"
+    },
+    {
+      "MaMon": "EDU126",
+      "TenMon": "Giới thiệu ngành - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PSY109",
+      "TenMon": "Tâm lý học sư phạm",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG115",
+      "TenMon": "Đại số tuyến tính",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL111",
+      "TenMon": "Giải tích thực một biến",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG114",
+      "TenMon": "Đại số sơ cấp và thực hành giải toán",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED662",
+      "TenMon": "Giáo viên trong thế kỷ 21 - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG116",
+      "TenMon": "Đại số đại cương",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL112",
+      "TenMon": "Giải tích thực nhiều biến",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GEM111",
+      "TenMon": "Hình học sơ cấp và thực hành giải toán",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED554",
+      "TenMon": "Rèn luyện tư duy logic cho học sinh qua giải Toán",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU523",
+      "TenMon": "Thực tế chuyên môn - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT501",
+      "TenMon": "Lịch sử Toán",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED338",
+      "TenMon": "Lý luận dạy học môn Toán",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG517",
+      "TenMon": "Lý thuyết nhóm",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL505",
+      "TenMon": "Phương trình vi phân",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GEM311",
+      "TenMon": "Hình học Afin",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "COA308",
+      "TenMon": "Tin học trong dạy và học Toán",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED112",
+      "TenMon": "Phương pháp nghiên cứu khoa học - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT312",
+      "TenMon": "PP dạy học số, đại số & một số yếu tố của giải tích",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG512",
+      "TenMon": "Lý thuyết số",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL312",
+      "TenMon": "Độ đo tích phân",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL512",
+      "TenMon": "Tôpô đại cương",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GEM312",
+      "TenMon": "Hình học Ơclit",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT311",
+      "TenMon": "Phát triển chương trình môn Toán",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT511",
+      "TenMon": "Phương pháp dạy học hình học và đo lường",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GEM509",
+      "TenMon": "Hình học xạ ảnh",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PRS303",
+      "TenMon": "Xác suất và thống kê - SP Toán học",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ESP543",
+      "TenMon": "Tiếng Anh chuyên ngành - SP Toán học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU512",
+      "TenMon": "Thực tập sư phạm 1 - SP Toán học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED654",
+      "TenMon": "Phát triển kỹ năng nghề nghiệp - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PED339",
+      "TenMon": "PP kiểm tra đánh giá trong DH Toán ở trường Trung học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT512",
+      "TenMon": "Phương pháp dạy học thống kê và xác suất",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT513",
+      "TenMon": "Giáo dục STEM ở trường Trung học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT517",
+      "TenMon": "Rèn luyện nghiệp vụ sư phạm 1 - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG513",
+      "TenMon": "Lý thuyết vành",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL514",
+      "TenMon": "Giải tích hàm",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GEM505",
+      "TenMon": "Hình học vi phân",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT518",
+      "TenMon": "Rèn luyện nghiệp vụ sư phạm 2 - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "LNP102",
+      "TenMon": "Quy hoạch tuyến tính - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT514",
+      "TenMon": "Giáo dục Toán học gắn với thực tiễn",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT515",
+      "TenMon": "Khởi nghiệp và giáo dục khởi nghiệp",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT516",
+      "TenMon": "Toán học trong giáo dục tài chính cho HS trung học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG301",
+      "TenMon": "Lý thuyết Module",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG509",
+      "TenMon": "Lý thuyết Galois",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "ALG514",
+      "TenMon": "Lý thuyết đồ thị",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL521",
+      "TenMon": "Hàm biến phức",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT504",
+      "TenMon": "Phương pháp tính - SP Toán học",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "CAL506",
+      "TenMon": "Phương trình đạo hàm riêng",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GEM506",
+      "TenMon": "Hình học phi Ơclit",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "GEM510",
+      "TenMon": "Nhập môn đa tạp khả vi",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PRS502",
+      "TenMon": "Thống kê nâng cao",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "PRS901",
+      "TenMon": "Hồi quy nhiều chiều",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU812",
+      "TenMon": "Thực tập sư phạm 2 - SP Toán học",
+      "SoTinChi": 5,
+      "SoTietLyThuyet": 75,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "EDU945",
+      "TenMon": "Khóa luận tốt nghiệp - SP Toán học",
+      "SoTinChi": 10,
+      "SoTietLyThuyet": 150,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT912",
+      "TenMon": "Chuyên đề tốt nghiệp - SP Toán học",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 60,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "MAT913",
+      "TenMon": "Hồ sơ tốt nghiệp - SP Toán học",
+      "SoTinChi": 0,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "SP"
+    },
+    {
+      "MaMon": "COS104",
+      "TenMon": "Giới thiệu ngành - CNTT",
+      "SoTinChi": 1,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "MAT104",
+      "TenMon": "Toán A1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "PHY118",
+      "TenMon": "Vật lý cho tin học",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "MAT113",
+      "TenMon": "Toán rời rạc",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS106",
+      "TenMon": "Lập trình căn bản",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON301",
+      "TenMon": "Mạng máy tính",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "MAT105",
+      "TenMon": "Toán A2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS303",
+      "TenMon": "Phương pháp tính - CNTT",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS107",
+      "TenMon": "Nền tảng Công nghệ thông tin",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS108",
+      "TenMon": "Ngôn ngữ lập trình Java",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS330",
+      "TenMon": "Kiến trúc máy tính và hợp ngữ",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS304",
+      "TenMon": "Cấu trúc dữ liệu",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "MAT106",
+      "TenMon": "Toán A3",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS310",
+      "TenMon": "Nguyên lý hệ điều hành",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS311",
+      "TenMon": "Cơ sở dữ liệu",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS313",
+      "TenMon": "Phương pháp lập trình hướng đối tượng",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS309",
+      "TenMon": "Phân tích và thiết kế giải thuật",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "PRS302",
+      "TenMon": "Xác suất thống kê A - CNTT",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "SEE301",
+      "TenMon": "Nhập môn công nghệ phần mềm",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS503",
+      "TenMon": "Lý thuyết đồ thị",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON503",
+      "TenMon": "Quản trị mạng",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS335",
+      "TenMon": "Văn bản và lưu trữ",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS336",
+      "TenMon": "Khởi nghiệp kinh doanh - CNTT",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS337",
+      "TenMon": "Nông nghiệp số",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS326",
+      "TenMon": "Kỹ năng giao tiếp ngành nghề",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "SEE527",
+      "TenMon": "Phát triển ứng dụng web",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "TIE501",
+      "TenMon": "Lập trình .Net",
+      "SoTinChi": 4,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "IMS302",
+      "TenMon": "Phân tích thiết kế hệ thống thông tin",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "IMS912",
+      "TenMon": "Chuyên đề Java",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS508",
+      "TenMon": "Xử lý ảnh",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS525",
+      "TenMon": "Chuyên đề Python",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "MOR514",
+      "TenMon": "Phương pháp nghiên cứu khoa học - CNTT",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "IMS501",
+      "TenMon": "Lập trình quản lý",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON915",
+      "TenMon": "Thiết kế và cài đặt mạng",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "SEE505",
+      "TenMon": "Phân tích và thiết kế phần mềm hướng đối tượng",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON502",
+      "TenMon": "Lập trình cho các thiết bị di động",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON515",
+      "TenMon": "Lập trình điều khiển thiết bị thông minh",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS529",
+      "TenMon": "Thị giác máy tính",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS521",
+      "TenMon": "Trí tuệ nhân tạo",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS526",
+      "TenMon": "Quản lý dự án công nghệ thông tin",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "IMS301",
+      "TenMon": "Nguyên lý hệ quản trị CSDL",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "SEE528",
+      "TenMon": "Công nghệ web và ứng dụng",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS527",
+      "TenMon": "Công nghệ Blockchain",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON511",
+      "TenMon": "An toàn hệ thống và an ninh mạng",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS528",
+      "TenMon": "Trực quan hóa dữ liệu",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "TIE903",
+      "TenMon": "Thực tập cuối khóa - CNTT",
+      "SoTinChi": 5,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 150,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "TIE913",
+      "TenMon": "Khóa luận tốt nghiệp - CNTT",
+      "SoTinChi": 10,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 300,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON914",
+      "TenMon": "Lập trình truyền thông",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "SEE504",
+      "TenMon": "Phát triển phần mềm mã nguồn mở",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS913",
+      "TenMon": "Thương mại điện tử - CNTT",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS914",
+      "TenMon": "Tin học môi trường - GIS",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "CON924",
+      "TenMon": "Công nghệ Internet of things hiện đại",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS915",
+      "TenMon": "Trí tuệ Nhân tạo nâng cao",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS916",
+      "TenMon": "Khai thác dữ liệu lớn",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "SEE910",
+      "TenMon": "Điện toán đám mây",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "COS917",
+      "TenMon": "Khai phá dữ liệu",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "SEE917",
+      "TenMon": "Phát triển ứng dụng hướng dịch vụ",
+      "SoTinChi": 0,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "CNTT"
+    },
+    {
+      "MaMon": "ACC104",
+      "TenMon": "Giới thiệu ngành - KT",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS302",
+      "TenMon": "Quản trị học",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ECO105",
+      "TenMon": "Toán Kinh tế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ECO505",
+      "TenMon": "Kinh tế vi mô",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS109",
+      "TenMon": "Kỹ năng truyền thông",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ECO303",
+      "TenMon": "Xác suất thống kê kinh tế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ECO506",
+      "TenMon": "Kinh tế vĩ mô",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS515",
+      "TenMon": "Marketing căn bản",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "POL102",
+      "TenMon": "Logic học đại cương",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS101",
+      "TenMon": "Quản trị hành chính văn phòng",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS114",
+      "TenMon": "Tư duy phản biện",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN501",
+      "TenMon": "Nhập môn Tài chính - Tiền tệ",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "LAW302",
+      "TenMon": "Pháp luật kinh tế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC101",
+      "TenMon": "Nguyên lý kế toán",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ECO508",
+      "TenMon": "Kinh tế quốc tế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ECO507",
+      "TenMon": "Kinh tế lượng",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 30,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS115",
+      "TenMon": "Khởi nghiệp kinh doanh - QTKD",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ECO307",
+      "TenMon": "Kinh tế môi trường",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN503",
+      "TenMon": "Thuế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN502",
+      "TenMon": "Quản trị tài chính 1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC501",
+      "TenMon": "Kế toán tài chính 1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN510",
+      "TenMon": "Nghiệp vụ ngân hàng thương mại",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS501",
+      "TenMon": "Quản trị doanh nghiệp",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "LAW502",
+      "TenMon": "Pháp luật doanh nghiệp",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN508",
+      "TenMon": "Nguyên lý thẩm định giá",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC512",
+      "TenMon": "Kế toán chi phí",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "MOR519",
+      "TenMon": "PP nghiên cứu khoa học trong kinh doanh",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC514",
+      "TenMon": "Kế toán quản trị",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC503",
+      "TenMon": "Kế toán tài chính 2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN506",
+      "TenMon": "Quản trị tài chính 2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC509",
+      "TenMon": "Kế toán ngân hàng thương mại",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN504",
+      "TenMon": "Tài chính quốc tế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "COA504",
+      "TenMon": "Tin học kế toán",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC504",
+      "TenMon": "Kế toán tài chính 3",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC523",
+      "TenMon": "Thực hành khai báo thuế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC910",
+      "TenMon": "Kế toán đơn vị hành chính sự nghiệp",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC525",
+      "TenMon": "Kế toán hợp nhất kinh doanh",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN514",
+      "TenMon": "Thanh toán quốc tế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "BUS518",
+      "TenMon": "Thiết lập và thẩm định dự án đầu tư",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC516",
+      "TenMon": "Phân tích hoạt động kinh doanh",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC506",
+      "TenMon": "Hệ thống thông tin kế toán",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC524",
+      "TenMon": "Kiểm toán 1",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC520",
+      "TenMon": "Thực hành kế toán",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 15,
+      "SoTietThucHanh": 60,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC916",
+      "TenMon": "Kế toán tài chính 4",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN505",
+      "TenMon": "Thị trường chứng khoán",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN507",
+      "TenMon": "Phân tích tài chính",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN524",
+      "TenMon": "Bảo hiểm",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC902",
+      "TenMon": "Thực tập tốt nghiệp - KT",
+      "SoTinChi": 5,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 150,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC915",
+      "TenMon": "Khóa luận tốt nghiệp - KT",
+      "SoTinChi": 10,
+      "SoTietLyThuyet": 150,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC919",
+      "TenMon": "Kế toán quốc tế",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC922",
+      "TenMon": "Kiểm toán 2",
+      "SoTinChi": 3,
+      "SoTietLyThuyet": 45,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC920",
+      "TenMon": "Kế toán ngân sách và kho bạc",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "ACC921",
+      "TenMon": "Luật kế toán và đạo đức nghề nghiệp",
+      "SoTinChi": 2,
+      "SoTietLyThuyet": 30,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    },
+    {
+      "MaMon": "FIN914",
+      "TenMon": "Đầu tư tài chính",
+      "SoTinChi": 0,
+      "SoTietLyThuyet": 0,
+      "SoTietThucHanh": 0,
+      "MaKhoa": "KT"
+    }
+  ],
+  "khungChuongTrinhList": [
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "EDU134",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS113",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS501",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK106",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK107",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "FSL101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "CHI101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS115",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS502",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK109",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK552",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "ENG112",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "COS101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "FSL102",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "CHI102",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK311",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK312",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED117",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PSY106",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "VIE101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "BAS101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "EDU103",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED583",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK313",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK314",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "SOC502",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "SOC503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED317",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LIT502",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LIT504",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK548",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK549",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS525",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "EDU519",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED506",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "MOR507",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK550",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK551",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS533",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "COA515",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS537",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS538",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED507",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "ENG523",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS534",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED318",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "LAS531",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PSY505",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED623",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED624",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED920",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED921",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "EDU819",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "EDU952",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "ENG919",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED923",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "PED927",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "ENG921",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "ENG910",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK526",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "ENG922",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "ENG920",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTA",
+      "MaMon": "GSK310",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS508",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS508",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS508",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "AGR112",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "AGR112",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "AGR112",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "BIT303",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "BIT303",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "BIT303",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS106",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS106",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS106",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS103",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS103",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS103",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FST109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FST109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FST109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "CUL107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "CUL107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "CUL107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "ENV108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "ENV108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "ENV108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "PHT152",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "PHT152",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "PHT152",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "COS101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "COS101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "COS101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS322",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS322",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS322",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS323",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS323",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS323",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "APH502",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "APH502",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "APH502",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS504",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS504",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS504",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS524",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS524",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS524",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS318",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS318",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS318",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS561",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS561",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS561",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS567",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS567",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS567",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "AGR305",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "AGR305",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "AGR305",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS574",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS574",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS574",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS517",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS517",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS517",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS569",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS569",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS569",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS525",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS525",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS525",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "LAW507",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "LAW507",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "LAW507",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS536",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS536",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS536",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "MOR510",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "MOR510",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "MOR510",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS573",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS573",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS573",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS575",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS575",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS575",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS568",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS568",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS568",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS565",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS565",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS565",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS570",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS570",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS570",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS571",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS571",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS571",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS572",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS572",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS572",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS563",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS563",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS563",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS566",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS566",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS566",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS549",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS549",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS549",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS564",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS564",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS564",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS550",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS550",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS550",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS547",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS547",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS547",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS560",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS560",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS560",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS562",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS562",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS562",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS559",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS559",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS559",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "ESP553",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "ESP553",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "ESP553",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS905",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS905",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS905",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS910",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS910",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS910",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS919",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS919",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS919",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NTTS",
+      "MaMon": "FIS914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "NH",
+      "MaMon": "FIS914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "CN",
+      "MaMon": "FIS914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "EDU126",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "EDU126",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED117",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED117",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PSY109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PSY109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "EDU103",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "EDU103",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG115",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG115",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL111",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL111",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG114",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG114",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "COS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "COS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED662",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED662",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG116",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG116",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL112",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL112",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "GEM111",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "GEM111",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED554",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED554",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "EDU523",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "EDU523",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT501",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT501",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED317",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED317",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED338",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED338",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG517",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG517",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL505",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL505",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "GEM311",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "GEM311",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "COA308",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "COA308",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED112",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED112",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT312",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT312",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG512",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG512",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL312",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL312",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL512",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL512",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "GEM312",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "GEM312",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT311",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT311",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT511",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT511",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "GEM509",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "GEM509",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PRS303",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PRS303",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ESP543",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ESP543",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "EDU512",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "EDU512",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED654",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED654",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED339",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED339",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT512",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT512",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT513",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT513",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT517",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT517",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG513",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG513",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "GEM505",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "GEM505",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT518",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT518",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "LNP102",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "LNP102",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PED318",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PED318",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT514",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT514",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT515",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT515",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT516",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT516",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG301",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG301",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG509",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG509",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "ALG514",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "ALG514",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL521",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL521",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT504",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT504",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "CAL506",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "CAL506",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "GEM506",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "GEM506",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "GEM510",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "GEM510",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PRS502",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PRS502",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "PRS901",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "PRS901",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "EDU812",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "EDU812",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "EDU945",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "EDU945",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT912",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT912",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPTOAN",
+      "MaMon": "MAT913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "SPNV",
+      "MaMon": "MAT913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MAT104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MAT104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MAT104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "PHY118",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "PHY118",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "PHY118",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MAT113",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MAT113",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MAT113",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS106",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS106",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS106",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON301",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON301",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON301",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MAT105",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MAT105",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MAT105",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS303",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS303",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS303",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS107",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS108",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS330",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS330",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS330",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS304",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS304",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS304",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MAT106",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MAT106",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MAT106",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS310",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS310",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS310",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS311",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS311",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS311",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS313",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS313",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS313",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "PRS302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "PRS302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "PRS302",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "SEE301",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "SEE301",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "SEE301",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS335",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS335",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS335",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS336",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS336",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS336",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS337",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS337",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS337",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS326",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS326",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS326",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "SEE527",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "SEE527",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "SEE527",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "TIE501",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "TIE501",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "TIE501",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "IMS302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "IMS302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "IMS302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "IMS912",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "IMS912",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "IMS912",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS508",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS508",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS508",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS525",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS525",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS525",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "MOR514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "MOR514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "MOR514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "IMS501",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "IMS501",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "IMS501",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON915",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON915",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON915",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "SEE505",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "SEE505",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "SEE505",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON502",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON502",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON502",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON515",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON515",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON515",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS529",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS529",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS529",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS521",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS521",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS521",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS526",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS526",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS526",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "IMS301",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "IMS301",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "IMS301",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "SEE528",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "SEE528",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "SEE528",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS527",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS527",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS527",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON511",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON511",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON511",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS528",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS528",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS528",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "TIE903",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "TIE903",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "TIE903",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "TIE913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "TIE913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "TIE913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "SEE504",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "SEE504",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "SEE504",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS913",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "CON924",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "CON924",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "CON924",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS915",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS915",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS915",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS916",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS916",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS916",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "SEE910",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "SEE910",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "SEE910",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "COS917",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "COS917",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "COS917",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KTPM",
+      "MaMon": "SEE917",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "HTTT",
+      "MaMon": "SEE917",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KHMT",
+      "MaMon": "SEE917",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC104",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS302",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS302",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS302",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "LAW101",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ECO105",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ECO105",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ECO105",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ECO505",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ECO505",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ECO505",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS109",
+      "HocKyDuKien": 1,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "COS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "COS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "COS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "PHT15X",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "PHI104",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ECO303",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ECO303",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ECO303",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ECO506",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ECO506",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ECO506",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS515",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS515",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS515",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "POL102",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "POL102",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "POL102",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS101",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS114",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS114",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS114",
+      "HocKyDuKien": 2,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "MIS21X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "PHT25X",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ENG110",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "MAX309",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN501",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN501",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN501",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "LAW302",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "LAW302",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "LAW302",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC101",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ECO508",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ECO508",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ECO508",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ECO507",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ECO507",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ECO507",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS115",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS115",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS115",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ECO307",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ECO307",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ECO307",
+      "HocKyDuKien": 3,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ENG111",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "MAX310",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN503",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN502",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN502",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN502",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC501",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC501",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC501",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN510",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN510",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN510",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS501",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS501",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS501",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "LAW502",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "LAW502",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "LAW502",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN508",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN508",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN508",
+      "HocKyDuKien": 4,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ENG302",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "VRP505",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC512",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC512",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC512",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "MOR519",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "MOR519",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "MOR519",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC514",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC514",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC514",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC503",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC503",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC503",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN506",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN506",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN506",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC509",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC509",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC509",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN504",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN504",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN504",
+      "HocKyDuKien": 5,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "HCM101",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "COA504",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "COA504",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "COA504",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC504",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC504",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC504",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC523",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC523",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC523",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC910",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC910",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC910",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC525",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC525",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC525",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN514",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "BUS518",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "BUS518",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "BUS518",
+      "HocKyDuKien": 6,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC516",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC516",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC516",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC506",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC506",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC506",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC524",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC524",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC524",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC520",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC520",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC520",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC916",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC916",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC916",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN505",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN505",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN505",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN507",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN507",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN507",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN524",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN524",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN524",
+      "HocKyDuKien": 7,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC902",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC902",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC902",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Bắt buộc"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC915",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC915",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC915",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC919",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC919",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC919",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC922",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC922",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC922",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC920",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC920",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC920",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "ACC921",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "ACC921",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "ACC921",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "KETOAN",
+      "MaMon": "FIN914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "QTKD",
+      "MaMon": "FIN914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    },
+    {
+      "MaNganh": "MKT",
+      "MaMon": "FIN914",
+      "HocKyDuKien": 8,
+      "LoaiMon": "Tự chọn"
+    }
+  ]
+}
