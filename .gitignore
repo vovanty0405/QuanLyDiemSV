@@ -1,0 +1,7 @@
+# Chặn các file tài liệu markdown ở thư mục gốc và thư mục con
+*.md
+backend/*.md
+
+# Chặn các file script SQL chứa dữ liệu cấu trúc hoặc dữ liệu mẫu
+*.sql
+backend/*.sql

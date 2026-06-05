@@ -159,6 +159,48 @@ async function seedRoles() {
         );
     }
     console.log('   ✅ Đã tạo xong 4 Roles');
+
+    console.log('🔧 Seeding RBAC Features (ChucNang, HanhDong)...');
+    const chucNangs = [
+        { MaChucNang: 'dashboard', TenChucNang: 'Trang chủ' },
+        { MaChucNang: 'lophocphan', TenChucNang: 'Quản lý Lớp học phần' },
+        { MaChucNang: 'lophanhchinh', TenChucNang: 'Quản lý Lớp hành chính' },
+        { MaChucNang: 'monhoc', TenChucNang: 'Quản lý Môn học' },
+        { MaChucNang: 'diemso', TenChucNang: 'Quản lý Điểm số' },
+        { MaChucNang: 'tracuudiem', TenChucNang: 'Tra cứu điểm' },
+        { MaChucNang: 'taikhoan', TenChucNang: 'Quản lý Tài khoản' },
+        { MaChucNang: 'thongke', TenChucNang: 'Thống kê & Báo cáo' }
+    ];
+    for (const cn of chucNangs) {
+        await sequelize.query(
+            `INSERT IGNORE INTO ChucNang (MaChucNang, TenChucNang) VALUES (:MaChucNang, :TenChucNang)`,
+            { replacements: cn }
+        );
+    }
+    const hanhDongs = [
+        { MaHanhDong: 'view', TenHanhDong: 'Xem (View)' },
+        { MaHanhDong: 'add', TenHanhDong: 'Thêm (Add)' },
+        { MaHanhDong: 'edit', TenHanhDong: 'Sửa (Edit)' },
+        { MaHanhDong: 'delete', TenHanhDong: 'Xóa (Delete)' },
+        { MaHanhDong: 'other', TenHanhDong: 'Khác (Other)' }
+    ];
+    for (const hd of hanhDongs) {
+        await sequelize.query(
+            `INSERT IGNORE INTO HanhDong (MaHanhDong, TenHanhDong) VALUES (:MaHanhDong, :TenHanhDong)`,
+            { replacements: hd }
+        );
+    }
+
+    console.log('🔧 Cấp toàn quyền cho Admin...');
+    for (const cn of chucNangs) {
+        for (const hd of hanhDongs) {
+            await sequelize.query(
+                `INSERT IGNORE INTO PhanQuyen (RoleID, MaChucNang, MaHanhDong) VALUES (1, :MaChucNang, :MaHanhDong)`,
+                { replacements: { MaChucNang: cn.MaChucNang, MaHanhDong: hd.MaHanhDong } }
+            );
+        }
+    }
+    console.log('   ✅ Đã cấp xong toàn quyền Admin');
 }
 
 async function seedKhoaNganh() {
